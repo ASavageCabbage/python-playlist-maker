@@ -99,7 +99,6 @@ Note: enter "exit" at any time to stop the program.
         
 if __name__ == '__main__':
     print(WELCOME_MESSAGE)
-    assert os.path.isfile(BROWSER), "ERROR: The browser executable could not be found. (Note: This can be changed in the script)"
     get_files()
     selection_loop()
     print('\nExiting program...')
