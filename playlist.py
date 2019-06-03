@@ -1,6 +1,5 @@
 """
-Script to for selecting and opening a web links from a list
-loaded from a text file
+Script for selecting and opening a web links from a list loaded from a text file.
 
 Author: Julian Ding
 """
